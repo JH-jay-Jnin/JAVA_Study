@@ -26,6 +26,8 @@ public class CarExample {public static void main(String[] args) {
     System.out.println("car4.model : " + car4.model);
     System.out.println("car4.color : " + car4.color);
     System.out.println("car4.maxSpeed : " + car4.maxSpeed);
+
+    // 집에서 깃허브 설정하는 중. 변경사항 내역 저장중
     }
 }
 
