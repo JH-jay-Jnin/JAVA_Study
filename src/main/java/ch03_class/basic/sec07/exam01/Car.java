@@ -1,6 +1,4 @@
-package main.java.ch03_class.basic.se07.exam01;
-
-import org.w3c.dom.ls.LSOutput;
+package main.java.ch03_class.basic.sec07.exam01;
 
 public class Car {
     // 속성(==필드)

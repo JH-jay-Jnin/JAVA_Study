@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.se07.exam05;
+package main.java.ch03_class.basic.sec07.exam05;
 
 public class Car {
     // 필드 선언

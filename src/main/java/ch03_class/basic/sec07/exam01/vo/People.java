@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.se07.exam01.vo;
+package main.java.ch03_class.basic.sec07.exam01.vo;
 
 public class People extends Object {
     // class명에 상속 구문이 없다면

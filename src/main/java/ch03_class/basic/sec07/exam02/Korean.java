@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.se07.exam02;
+package main.java.ch03_class.basic.sec07.exam02;
 
 public class Korean {
     // 필드 선언

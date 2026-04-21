@@ -1,10 +1,10 @@
-package main.java.ch03_class.basic.se07.exam01.run;
+package main.java.ch03_class.basic.sec07.exam01.run;
 
 // 3. main 메소드 실행 후, 객체를 정의해준다. Student ex
 // 4. ex메서드 호출해본다. 그리고 TestVO로 간다.
 
-import main.java.ch03_class.basic.se07.exam01.service.ClsService;
-import main.java.ch03_class.basic.se07.exam01.vo.Student;
+import main.java.ch03_class.basic.sec07.exam01.service.ClsService;
+import main.java.ch03_class.basic.sec07.exam01.vo.Student;
 
 public class ClsRun {
     public static void main(String[] args) {

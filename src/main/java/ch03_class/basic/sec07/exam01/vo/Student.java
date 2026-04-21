@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.se07.exam01.vo;
+package main.java.ch03_class.basic.sec07.exam01.vo;
 
 //1. 속성(인스턴스와 클래스로 나뉨)과 기능을 정의한다.
 //2. 인스턴스 변수와 접근 제한자 예제를 확인한 다음 ClsRun.java로 간다.

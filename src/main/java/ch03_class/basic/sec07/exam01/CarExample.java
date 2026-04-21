@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.se07.exam01;
+package main.java.ch03_class.basic.sec07.exam01;
 
 public class CarExample {
     public static void main(String[] args) {

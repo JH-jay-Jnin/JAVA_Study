@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.se07.exam01.vo;
+package main.java.ch03_class.basic.sec07.exam01.vo;
 // VO (Value Object) : 값 저장용 객체를 만들기 위한
 //                     클래스를 모아두는 패키지
 // 6. sout 쓰고 학생 객체 생성
