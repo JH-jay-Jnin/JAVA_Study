@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.oop.model.vo;
+package main.java.ch04_Inheritance_polymorphism.oop.model.vo;
 
 public class Galaxy extends Phone { // 3. String boolean 작성
     // 4. Apple과 Galaxy에 공통된 속성들만 Phone에 모아두자! => Phone으로 이동

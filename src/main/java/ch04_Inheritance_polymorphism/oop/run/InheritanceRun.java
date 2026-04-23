@@ -1,6 +1,6 @@
-package main.java.ch03_class.basic.oop.run;
+package main.java.ch04_Inheritance_polymorphism.oop.run;
 
-import main.java.ch03_class.basic.oop.model.service.InheritanceService;
+import main.java.ch04_Inheritance_polymorphism.oop.model.service.InheritanceService;
 
 public class InheritanceRun {
     // 12.main 메소드 생성 => null이 나오는 이유 : 객체 생성되면 자동으로 필드를 초기화해주기 때문이다.

@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.oop.model.vo;
+package main.java.ch04_Inheritance_polymorphism.oop.model.vo;
 
 public class Phone { // 5. 다시 Apple로 이동
    // 10. private 넣고 기본생성자, getter setter 작성

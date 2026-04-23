@@ -1,4 +1,4 @@
-package main.java.ch03_class.basic.oop.model.vo;
+package main.java.ch04_Inheritance_polymorphism.oop.model.vo;
 
 // 1. 5개 Class 전부 만들었으면 여기서부터 시작 => //속성 // 메서드 작성
 

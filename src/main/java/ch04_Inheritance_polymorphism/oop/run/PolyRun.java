@@ -1,6 +1,6 @@
-package main.java.ch03_class.basic.oop.run;
+package main.java.ch04_Inheritance_polymorphism.oop.run;
 
-import main.java.ch03_class.basic.oop.model.service.PolyService;
+import main.java.ch04_Inheritance_polymorphism.oop.model.service.PolyService;
 
 public class PolyRun {
     public static void main(String[] args) {

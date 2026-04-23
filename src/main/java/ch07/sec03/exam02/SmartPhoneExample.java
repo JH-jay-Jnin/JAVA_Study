@@ -11,5 +11,9 @@ public class SmartPhoneExample {
     public static void main(String[] args) {
         // SmartPhone 인스턴스 생성
         SmartPhone SmartEx = new SmartPhone("갤럭시", "은색");
+
+        // Phone으로부터 상속 받은 필드 읽기 => model과 color라는 두 가지 필드가 있었다!
+        System.out.println("모델 : " + SmartEx.model);
+        System.out.println("색상 : " + SmartEx.color);
     }
 }
