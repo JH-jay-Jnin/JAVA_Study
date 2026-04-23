@@ -83,7 +83,14 @@ public class Apple extends Phone { // 7. extends작성 및 아래 주석 확인
         this.iosVersion = iosVersion;
     }
 
-   // 30. Phone.toString() 오버라이딩
+    //Phone.pay() 오버라이딩
+    // 조건: 접근 제한자는 같아야 한다.
+    @Override
+    public void pay() {
+        System.out.println("Apple pay로 결제하기");
+    }
+
+    // 30. Phone.toString() 오버라이딩
    @Override
     public String toString() {
         // return getModel() + " / " + getColor() + " / " + iosVersion ; // 이러면 model이 private 액세스 뜬다. == getter쓴다. 아이폰 XS / RoseGold / 3버전 잘된다.
